@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CURSO C# UDEMY\\EntradaDeDados\\uri1020\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5A4EB7-3F33-49CD-932B-7E54D24D6F0B}|uri1020\\uri1020.csproj|d:\\curso c# udemy\\entradadedados\\uri1020\\uri1020\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD5A4EB7-3F33-49CD-932B-7E54D24D6F0B}|uri1020\\uri1020.csproj|solutionrelative:uri1020\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CURSO C# UDEMY\\EntradaDeDados\\uri1020\\uri1020\\Program.cs",
+              "RelativeDocumentMoniker": "uri1020\\Program.cs",
+              "ToolTip": "D:\\CURSO C# UDEMY\\EntradaDeDados\\uri1020\\uri1020\\Program.cs",
+              "RelativeToolTip": "uri1020\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T22:20:52.637Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
